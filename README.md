@@ -72,7 +72,7 @@ This project demonstrates how startup funding data can be leveraged for trend an
 
 - `cleaned_sharktank_data.csv` – Preprocessed data for visualization
 - `Startup_Investment_Analysis_Report.pdf` – 2-page summary report
-- `Power BI Dashboard.pbix` – Visual dashboard file (if available)
+- `Power BI Dashboard.pbix` – Visual dashboard file
 
 ---
 
